@@ -14,7 +14,7 @@ the algohithm used is (complete) DPLL with a heuristic, namely, the algorithm ch
 
 test03.txt is an example (found online) with 60 variables and 160 clauses that the algorithm fails to solve (in a reasonable time)
 
-sudoku_myexample01.txt is the formula corresponding to the sudoku in myexample.bmp
+sudoku_myexample01.txt is the formula corresponding to the sudoku in myexample.bmp (729 variables, 12015 clauses)
 
 sudoku_myexample02.txt is the same as the previous but with only the first 20 numbers entered in the puzzle (counting up to down, left to right). it is solved in about 10sec
 
