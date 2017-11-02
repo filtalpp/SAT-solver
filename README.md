@@ -16,6 +16,6 @@ test03.txt is an example (found online) with 60 variables and 160 clauses that t
 
 sudoku_myexample01.txt is the formula corresponding to the sudoku in myexample.bmp
 
-sudoku_myexample02.txt is a formula corresponding to the sudoku in myexample.bmp with only the first 20 numbers entered (counting up to down, left to right), which is solved in about 10sec
+sudoku_myexample02.txt is the same as the previous but with only the first 20 numbers entered in the puzzle (counting up to down, left to right). it is solved in about 10sec
 
 sudoku_myexample03.txt is the same as the previous but with the first 19 numbers entered (this takes about 1 min 20 sec to solve)
