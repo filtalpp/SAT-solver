@@ -1,5 +1,5 @@
 c Atom pxyn is represented by 81*(x-1)+9*(y-1)+n
-p cnf 729 12009
+p cnf 729 12008
 7 0
 18 0
 57 0
